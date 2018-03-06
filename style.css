@@ -36,11 +36,12 @@ img{
     padding-left:20px;
 }
 input{
-    color:blue;
-    background-color:lawngreen;
+    color:#00001a;
+    background-color:#006666;
     margin-left:20px;
-    width:120px;
-    height:25px;
-    text-align:center;
     cursor:pointer;
+    width:107px;
+    height:25px;
+    cursor:pointer;
+    border:1px groove blue;
 }
